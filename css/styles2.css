@@ -1,0 +1,20 @@
+.navbarpink {
+    background-color: rgb(251, 214, 221);
+  }
+
+.uniquefont {
+    font-family: "Great Vibes", cursive;
+    font-style: normal;
+    font-size: 2.5em;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    margin-left: -.5em;
+    color: rgb(223, 110, 110);
+    text-shadow: 1.7px 0px rgb(223, 110, 110);
+  }
+
+  .gif {
+    width: 100%;
+    height: 18em;
+  }
+  
